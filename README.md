@@ -1,4 +1,4 @@
-# Online-Shop_CMS-WordPress
+# Online-Shop
 Создано большое количество Интернет-Магазинов на базе CMS WordPress
 
 Список Работ:
